@@ -44,3 +44,14 @@ h2{
 .btn{
     background-color: teal;
 }
+
+
+.footer {
+        position: absolute;
+        bottom: 0; 
+        width: 100%;
+}
+
+.footer-color{
+    text-align: center;
+}
