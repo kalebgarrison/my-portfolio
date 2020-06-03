@@ -68,12 +68,6 @@ h2{
 }
 
 /* Sticky Footer */
-/* .footer {
-        position: absolute;
-        bottom: 0; 
-        width: 100%;
-        background-color: teal;
-} */
 
 .footer{
     height: min-content;
@@ -89,15 +83,8 @@ h2{
     margin-top: 20px;
 }
 
-/* body{
-    margin-bottom: auto; */
-}
-
 .footer-color{
     text-align: center;
     
 }
 
-/* main{
-    margin-bottom: auto; */
-}
