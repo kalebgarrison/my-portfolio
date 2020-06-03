@@ -12,6 +12,10 @@
     background-color: teal;
 }
 
+.navbar-nav{
+    text-align: right;
+}
+
 .navbar-light .navbar-brand{
     color:white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -24,18 +28,36 @@
 body {
     background-image: url(./images/gtpfbg.png);
 }
+
+/* Main images in About Me & Portfolio */
+.row{
+    width: 100%;
+    /* background-color: white; */
+}
 .col-sm-7{
     background-color: white;
     padding-bottom: 20px;
+
 }
 
 img{
     float: left;
-    margin: 10px;
+    margin: 20px;
+    width: fit-content;
 }
+
+.img row{
+    float:right
+    margin: 10px;
+    width: fit-content;
+}
+
+
 header{
     padding-bottom: 50px;
 }
+
+/* Header Text */
 h2{
     padding-top: 20px;
     color: teal;
@@ -45,13 +67,37 @@ h2{
     background-color: teal;
 }
 
-
-.footer {
+/* Sticky Footer */
+/* .footer {
         position: absolute;
         bottom: 0; 
         width: 100%;
+        background-color: teal;
+} */
+
+.footer{
+    height: min-content;
+    background-color: teal;
+    position: sticky;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+/* body{
+    margin-bottom: auto; */
 }
 
 .footer-color{
     text-align: center;
+    
+}
+
+/* main{
+    margin-bottom: auto; */
 }
