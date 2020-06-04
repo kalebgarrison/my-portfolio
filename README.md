@@ -21,13 +21,15 @@ Any feedback can be provided via email at [kalebgarrison@gmail.com](mailto:kaleb
 
 ## Usage 
 
-[Deployed Portfolio Site](https://kalebgarrison.github.io/gt-semantic-html-homework-01/)
+[Deployed Portfolio Site](https://kalebgarrison.github.io/responsive-css-homework-02/)
 
-[GitHub Repo Site](https://github.com/kalebgarrison/gt-semantic-html-homework-01)
+[GitHub Repo Site](https://github.com/kalebgarrison/responsive-css-homework-02)
 
-![alt text](assets/images/Horiseon1.png) Main Page Image 1
+![alt text](Assets/images/About.png) About Me Page Image 1
 
-![alt text](assets/images/Horiseon2.png) Main Page Image 2
+![alt text](Assets/images/Contact.png) Contact Page Image 2
+
+![alt text](Assets/images/Portfolio.png) Portfolio Page Image 3
 
 
 
