@@ -13,7 +13,7 @@ h2{
 
 /* Navigation Bar */
 .navbar-brand{
-    background-color: teal;
+    /* background-color: teal; */
 }
 
 .navbar-nav{
@@ -93,3 +93,11 @@ h2{
     
 }
 
+.titles{
+    color: black;
+    
+}
+
+.info {
+    color: black;
+}

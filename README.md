@@ -21,7 +21,7 @@ Any feedback can be provided via email at [kalebgarrison@gmail.com](mailto:kaleb
 
 ## Usage 
 
-[Deployed Portfolio Site](https://kalebgarrison.github.io/responsive-css-homework-02/)
+[Deployed Portfolio Site](https://kalebgarrison.github.io/my-portfolio/)
 
 [GitHub Repo Site](https://github.com/kalebgarrison/responsive-css-homework-02)
 
@@ -30,6 +30,8 @@ Any feedback can be provided via email at [kalebgarrison@gmail.com](mailto:kaleb
 ![alt text](Assets/images/Contact.png) Contact Page Image 2
 
 ![alt text](Assets/images/Portfolio.png) Portfolio Page Image 3
+
+
 
 
 
