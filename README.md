@@ -25,12 +25,7 @@ Any feedback can be provided via email at [kalebgarrison@gmail.com](mailto:kaleb
 
 [GitHub Repo Site](https://github.com/kalebgarrison/responsive-css-homework-02)
 
-![alt text](Assets/images/About.png) About Me Page Image 1
-
-![alt text](Assets/images/Contact.png) Contact Page Image 2
-
-![alt text](Assets/images/Portfolio.png) Portfolio Page Image 3
-
+![alt text](Assets/images/about me.png) About Me Page Image 1
 
 
 
