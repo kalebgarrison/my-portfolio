@@ -73,10 +73,10 @@ h2{
 }
 
 /* Sticky Footer */
-
+/* 
 .footer{
     height: min-content;
-    background-color: teal;
+    background-color: gray;
     position: sticky;
     bottom: 0;
     left: 0;
@@ -86,7 +86,7 @@ h2{
     align-items: center;
     justify-content: center;
     margin-top: 20px;
-}
+} */
 
 .footer-color{
     text-align: center;
